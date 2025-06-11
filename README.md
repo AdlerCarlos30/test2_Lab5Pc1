@@ -1,2 +1,7 @@
 # test2_Lab5_Pc1
-Olá Mundo
+
+Olá Mundo!
+
+Hello World!
+
+Hola Mundo!
